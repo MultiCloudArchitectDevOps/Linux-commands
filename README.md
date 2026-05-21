@@ -180,7 +180,6 @@
 | `hostname -I` | Private IP |
 | `ip addr show` | Network interfaces |
 | `ss -tuln` | Open ports |
-| `netstat -tunap` | Network connections |
 | `ping google.com` | Connectivity test |
 | `telnet IP PORT` | Test port |
 | `nc -zv IP PORT` | Netcat port test |
