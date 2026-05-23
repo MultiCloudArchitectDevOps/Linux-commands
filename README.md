@@ -128,7 +128,7 @@
 | `chmod 755 file` | Standard permission |
 | `chmod -R 755 dir` | Recursive permission |
 | `chown user:group file` | Change ownership |
-| `umask 022` | Default permissions |
+
 
 ---
 
