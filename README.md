@@ -69,7 +69,7 @@
 | `tree` | Show folder structure |
 | `find / -name file` | Search file |
 | `grep "text" file` | Filter content |
-
+|:wq!|Write & quite the file save.
 ---
 
 # 📁 3. Navigation Commands
